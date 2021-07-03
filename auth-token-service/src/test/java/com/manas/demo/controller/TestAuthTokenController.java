@@ -21,6 +21,11 @@ public class TestAuthTokenController {
 		assertEquals("abcd123", token);
 	}
 
+	@Test
+	public void testToken2() {
+		assertEquals("abcd123", token);
+	}
+	
 	@After
 	public void cleanUp() {
 		System.out.println("Token Test Completed.");
