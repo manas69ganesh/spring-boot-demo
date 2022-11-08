@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1e96cba7-fca8-48e6-8e27-05f38b073891/AppServices/subscriptions/1e96cba7-fca8-48e6-8e27-05f38b073891/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/manastestapp",
+    "appService.deploySubpath": "auth-token-service\\target\\auth-token-service-0.0.1-SNAPSHOT.jar"
+}
